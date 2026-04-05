@@ -166,7 +166,7 @@ audio { display: none; }
 .cake-wrapper {
   display: inline-block;
   position: relative;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 /* Suppress legacy CSS cake shapes — SVG handles all visuals */
